@@ -1,6 +1,6 @@
 """
     Investigate training and test loss evolution vs time:
-        Regularized Gauss-Newton for learning overparameterized neural networks.
+        Regularized Gauss-Newton for optimizing overparameterized neural networks.
 """
 
 include(joinpath(@__DIR__, "..", "src/NNOptimization.jl"))

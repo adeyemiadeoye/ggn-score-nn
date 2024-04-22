@@ -1,6 +1,6 @@
 """
     Problem utility functions for:
-        Regularized Gauss-Newton for learning overparameterized neural networks.
+        Regularized Gauss-Newton for optimizing overparameterized neural networks.
 """
 
 include(joinpath(@__DIR__, "grad-utils.jl"))

@@ -1,6 +1,6 @@
 """
     Plot settings for:
-        Regularized Gauss-Newton for learning overparameterized neural networks.
+        Regularized Gauss-Newton for optimizing overparameterized neural networks.
 """
 # credits: https://github.com/adeyemiadeoye/SelfConcordantSmoothOptimization.jl/blob/main/examples/paper/exp-utils-paper.jl
 

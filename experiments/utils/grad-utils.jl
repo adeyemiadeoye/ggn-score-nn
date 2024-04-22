@@ -1,6 +1,6 @@
 """
     Derivative utility functions for:
-        Regularized Gauss-Newton for learning overparameterized neural networks.
+        Regularized Gauss-Newton for optimizing overparameterized neural networks.
 """
 
 using LinearAlgebra

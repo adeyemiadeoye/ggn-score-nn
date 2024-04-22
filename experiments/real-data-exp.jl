@@ -1,6 +1,6 @@
 """
     Experiments on real datasets:
-        Regularized Gauss-Newton for learning overparameterized neural networks.
+        Regularized Gauss-Newton for optimizing overparameterized neural networks.
 """
 
 include(joinpath(@__DIR__, "..", "src/NNOptimization.jl"))
